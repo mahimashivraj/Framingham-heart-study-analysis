@@ -96,5 +96,3 @@ This analysis can support:
 **Mahima Shivraj**  
 3rd Year B.E. Biotechnology  
 BITS Pilani, Dubai Campus.
-3rd Year B.E. Biotechnology  
-BITS Pilani, Dubai Campus  
