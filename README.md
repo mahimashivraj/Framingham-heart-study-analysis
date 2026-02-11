@@ -35,7 +35,7 @@ The dataset contains patient-level clinical data including:
 - BMI
 - Heart disease occurrence (target variable)
 
-  ## 🔬 Methodology
+## 🔬 Methodology
 
 ### 1️⃣ Data Preprocessing
 - Handled missing values
@@ -66,7 +66,7 @@ The dataset contains patient-level clinical data including:
 - Combined clinical indicators provide better predictive signals than individual features.
 - Data preprocessing significantly improves interpretability and reliability.
 
- ## 📂 Repository Contents
+## 📂 Repository Contents
 
 - 📊 [EDA Notebook](EDA_HeartDisease.ipynb) – Complete data cleaning and exploratory analysis workflow.
 - 📄 [Project Report (PDF)](DiseasePredictionReport-MahimaShivraj.pdf) – Detailed documentation of analysis, methodology, and conclusions.
@@ -81,7 +81,7 @@ The dataset contains patient-level clinical data including:
 - Feature Analysis
 - Analytical Reporting
 
- ## 💡 Impact & Applications
+## 💡 Impact & Applications
 
 This analysis can support:
 - Early risk detection frameworks
